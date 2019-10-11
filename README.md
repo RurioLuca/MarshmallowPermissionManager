@@ -4,6 +4,7 @@
 [![ Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-MarshmallowPermissionManager-green.svg?style=true)](https://android-arsenal.com/details/1/3234)
 [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/RurioLuca/MarshmallowPermissionManager/blob/master/License)
 [![Codewake](https://www.codewake.com/badges/ask_question_flat_square.svg)](https://www.codewake.com/p/marshmallowpermissionmanager)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRurioLuca%2FPermissionManager.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FRurioLuca%2FPermissionManager?ref=badge_shield)
 [ ![Download](https://api.bintray.com/packages/auron/maven/permission-manage/images/download.svg) ](https://bintray.com/auron/maven/permission-manage/_latestVersion) 
 [![API](https://img.shields.io/badge/API-9%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=15)
 [![GitHub stars](https://img.shields.io/github/stars/RurioLuca/MarshmallowPermissionManager.svg)](https://github.com/RurioLuca/MarshmallowPermissionManager/stargazers)
@@ -261,3 +262,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRurioLuca%2FPermissionManager.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FRurioLuca%2FPermissionManager?ref=badge_large)

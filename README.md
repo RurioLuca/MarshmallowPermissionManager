@@ -5,8 +5,8 @@
 [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/RurioLuca/MarshmallowPermissionManager/blob/master/License)
 [![Codewake](https://www.codewake.com/badges/ask_question_flat_square.svg)](https://www.codewake.com/p/marshmallowpermissionmanager)
 [ ![Download](https://api.bintray.com/packages/auron/maven/permission-manage/images/download.svg) ](https://bintray.com/auron/maven/permission-manage/_latestVersion) 
-[![API](https://img.shields.io/badge/API-9%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=9)
- [![GitHub stars](https://img.shields.io/github/stars/RurioLuca/MarshmallowPermissionManager.svg)](https://github.com/RurioLuca/MarshmallowPermissionManager/stargazers)
+[![API](https://img.shields.io/badge/API-9%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=15)
+[![GitHub stars](https://img.shields.io/github/stars/RurioLuca/MarshmallowPermissionManager.svg)](https://github.com/RurioLuca/MarshmallowPermissionManager/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/RurioLuca/MarshmallowPermissionManager.svg)](https://github.com/RurioLuca/MarshmallowPermissionManager/network) 
 [![GitHub issues](https://img.shields.io/github/issues/RurioLuca/MarshmallowPermissionManager.svg)](https://github.com/RurioLuca/MarshmallowPermissionManager/issues) 
 
@@ -30,7 +30,7 @@ A demo app is available on Google Play:
 
 ### Requirements
 
-The library requires Android **API Level 9+**.
+The library requires Android **API Level 15+**.
 
 
 ### Import
@@ -47,7 +47,7 @@ allprojects {
 ```
 ```Gradle
 dependencies {
- implementation 'com.auron:permission-manage:1.1.9'
+ implementation 'com.auron:permission-manage:1.2.0'
 }
 ```
 

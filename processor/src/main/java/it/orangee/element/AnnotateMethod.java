@@ -30,7 +30,7 @@ public class AnnotateMethod extends AskPermissionElement<ExecutableElement> {
     }
 
     @Override
-    String getClassName() {
+    public String getClassName() {
         return ((TypeElement) element.getEnclosingElement()).getQualifiedName().toString();
     }
 

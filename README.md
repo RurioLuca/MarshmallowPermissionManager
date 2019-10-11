@@ -3,7 +3,7 @@
 [![Platform (Android)](https://img.shields.io/badge/platform-Android-blue.svg?style=flat-square)](http://www.android.com)
 [![ Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-MarshmallowPermissionManager-green.svg?style=true)](https://android-arsenal.com/details/1/3234)
 [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/RurioLuca/MarshmallowPermissionManager/blob/master/License)
-[![Codewake](https://www.codewake.com/badges/ask_question_flat_square.svg)](https://www.codewake.com/p/marshmallowpermissionmanager)
+<!--[![Codewake](https://www.codewake.com/badges/ask_question_flat_square.svg)](https://www.codewake.com/p/marshmallowpermissionmanager)-->
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRurioLuca%2FPermissionManager.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FRurioLuca%2FPermissionManager?ref=badge_shield)
 [ ![Download](https://api.bintray.com/packages/auron/maven/permission-manage/images/download.svg) ](https://bintray.com/auron/maven/permission-manage/_latestVersion) 
 [![API](https://img.shields.io/badge/API-9%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=15)
@@ -11,8 +11,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/RurioLuca/MarshmallowPermissionManager.svg)](https://github.com/RurioLuca/MarshmallowPermissionManager/network) 
 [![GitHub issues](https://img.shields.io/github/issues/RurioLuca/MarshmallowPermissionManager.svg)](https://github.com/RurioLuca/MarshmallowPermissionManager/issues) 
 
-#### Helper to ask runtime permission on android marshmallow and more
-
+#### Helper to ask runtime permission on Android
 
 The library takes care themselves to check whether a permit has already been agreed by the user or not.
 if the user has given consent call the system dialog for the acceptance
